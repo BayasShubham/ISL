@@ -1,0 +1,20 @@
+# Core requirements
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow
+joblib
+
+# Computer vision and media processing
+opencv-python
+mediapipe
+
+
+# Text to Speech
+googletrans==4.0.0-rc1
+gtts
+ipython
+language-tool-python
+nltk
+spacy
